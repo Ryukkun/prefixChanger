@@ -1,0 +1,17 @@
+name: prefixChanger
+version: '1.0.0'
+main: fox.ryukkun_.prefixChanger.PrefixChanger
+api-version: '1.21'
+
+commands:
+  nametag:
+    permission: prefixchanger.change.my
+  prefixchanger:
+    permission: prefixchanger.setting
+
+
+permissions:
+  prefixchanger.change.my:
+    default: true
+  prefixchanger.setting:
+    default: op

@@ -1,0 +1,10 @@
+team:
+  ids:
+    - "fox.live"
+    - "fox.afk"
+  names:
+    - "配信中"
+    - "afk"
+  prefixes:
+    - '&3[&b配信中&3]'
+    - '&e[&cafk&e]'
